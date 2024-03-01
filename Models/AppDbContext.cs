@@ -1,4 +1,4 @@
-using App.Models.Contacts;
+using App.Models.Users;
 using Microsoft.EntityFrameworkCore;
 
 namespace App.Models
@@ -26,7 +26,7 @@ namespace App.Models
                 }
             }
         }
-        public DbSet<Contact> Contacts { get; set; }
+        public DbSet<User> Users { get; set; }
 
     }
 }

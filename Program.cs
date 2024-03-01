@@ -45,7 +45,7 @@ app.Run();
 
 
 // dotnet aspnet-codegenerator area Contact
-// dotnet ef database update
 // dotnet ef migrations add Contact
+// dotnet ef database update
 // dotnet add package Microsoft.EntityFrameworkCore.Tools
-// dotnet aspnet-codegenerator controller -name Contact -namespace App.Areas.Contact.Controllers -m App.Models.Contacts.Contact -udl -dc App.Models.AppDbContext -outDir Controllers/
+// dotnet aspnet-codegenerator controller -name User -namespace App.Areas.User.Controllers -m App.Models.Users.User -udl -dc App.Models.AppDbContext -outDir Controllers/

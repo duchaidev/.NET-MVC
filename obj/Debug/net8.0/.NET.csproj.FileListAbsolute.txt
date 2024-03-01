@@ -1,11 +1,12 @@
+C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\.NET.exe
+C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\.NET.dll
+C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\appsettings.json
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\.NET.staticwebassets.runtime.json
-C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\.NET.exe
-C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\.NET.deps.json
-C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\.NET.runtimeconfig.json
-C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\.NET.dll
-C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\.NET.pdb
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
@@ -26,7 +27,6 @@ C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
-C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.Build.dll
@@ -44,10 +44,7 @@ C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.d
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
-C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
 C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
@@ -272,6 +269,7 @@ C:\Users\leduc\Desktop\.NET\obj\Debug\net8.0\.NET.MvcApplicationPartsAssemblyInf
 C:\Users\leduc\Desktop\.NET\obj\Debug\net8.0\.NET.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\leduc\Desktop\.NET\obj\Debug\net8.0\.NET.RazorAssemblyInfo.cache
 C:\Users\leduc\Desktop\.NET\obj\Debug\net8.0\.NET.RazorAssemblyInfo.cs
+C:\Users\leduc\Desktop\.NET\obj\Debug\net8.0\.NET.sourcelink.json
 C:\Users\leduc\Desktop\.NET\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\leduc\Desktop\.NET\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\leduc\Desktop\.NET\obj\Debug\net8.0\staticwebassets\msbuild..NET.Microsoft.AspNetCore.StaticWebAssets.props
@@ -286,5 +284,8 @@ C:\Users\leduc\Desktop\.NET\obj\Debug\net8.0\.NET.csproj.Up2Date
 C:\Users\leduc\Desktop\.NET\obj\Debug\net8.0\.NET.dll
 C:\Users\leduc\Desktop\.NET\obj\Debug\net8.0\refint\.NET.dll
 C:\Users\leduc\Desktop\.NET\obj\Debug\net8.0\.NET.pdb
+C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\.NET.deps.json
+C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\.NET.runtimeconfig.json
+C:\Users\leduc\Desktop\.NET\bin\Debug\net8.0\.NET.pdb
 C:\Users\leduc\Desktop\.NET\obj\Debug\net8.0\.NET.genruntimeconfig.cache
 C:\Users\leduc\Desktop\.NET\obj\Debug\net8.0\ref\.NET.dll
